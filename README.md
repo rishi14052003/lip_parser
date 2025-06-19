@@ -1,4 +1,3 @@
-Here’s a polished, comprehensive `README.md` for your **lip\_parser** repository:
 
 ---
 
